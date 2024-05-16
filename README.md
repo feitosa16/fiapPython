@@ -1,6 +1,6 @@
 # fiapPython
 
-<img src = https://img.shields.io/badge/Status-Em Andamento-yellow> 
+<img src = https://img.shields.io/badge/Status-Em_Andamento-yellow> 
 
 _Repositorio destinado aos códigos de estudo e prática do curso de programação de Python ministrado pela instituição FIAP gratuitamente._
 
